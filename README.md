@@ -1,7 +1,5 @@
 ### About Me
 
-#### Naoki Ishimura 🙋‍♂️
-
 - Serverside Engineer 🌐
 - Agile Software Development ⚙️
 - Team Building 🛠️
