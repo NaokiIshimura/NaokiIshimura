@@ -3,7 +3,7 @@
 ### My Skill
 
 #### Tool
-[![Github](https://img.shields.io/badge/-Github-#181717.svg?logo=github&style=flat-square&logoColor=white)]()
+[![Github](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square&logoColor=white)]()
 [![Dockerバッジ](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
 
 #### Language
