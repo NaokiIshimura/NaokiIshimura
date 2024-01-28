@@ -23,6 +23,7 @@
 #### Frontend
 [![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=flat-square&logoColor=white)]()
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat-square&logoColor=white)]()
+[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82.svg?logo=nuxt.js&style=flat-square&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3.svg?logo=bootstrap&style=flat-square&logoColor=white)]()
 
 #### Backend
