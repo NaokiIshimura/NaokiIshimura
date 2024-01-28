@@ -30,8 +30,11 @@
 
 ###### AWS Microservice Architecture
 ![](img/AWS-Architecture-Microservice.drawio.png)
+<img alt="SNQ-2001" src="img/AWS-Architecture-Microservice.drawio.png" width="100%" height="100%">
+
 ###### AWS Container Architecture
 ![](img/AWS-Architecture-Container.drawio.png)
+<img alt="SNQ-2001" src="img/AWS-Architecture-Container.drawio.png" width="100%" height="100%">
 
 <!-- Simple Icons
 https://simpleicons.org/
