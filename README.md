@@ -1,10 +1,12 @@
 ### About Me
----
 
 Naoki Ishimura
 
-### My Skill
+- Serverside Engineer
+
 ---
+
+### My Skill
 
 #### DevTool
 [![Github](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square&logoColor=white)]()
