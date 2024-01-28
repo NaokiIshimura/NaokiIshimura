@@ -15,7 +15,7 @@
 
 #### Frontend
 [![React](https://img.shields.io/badge/-Serverless-FD5750.svg?logo=serverless&style=flat-square&logoColor=white)]()
-[![VueJS](https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat-square&logoColor=white)]()
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat-square&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3.svg?logo=bootstrap&style=flat-square&logoColor=white)]()
 
 #### Backend
@@ -23,9 +23,9 @@
 [![RubyOnRails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
 
 #### Infrastructure
-[![Serverless](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=flat-square&logoColor=white)]()
-[![Terraform](https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=flat-square&logoColor=white)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E.svg?logo=Amazon-AWS&style=flat-square&logoColor=white)]()
+[![Serverless](https://img.shields.io/badge/-Serverless-FD5750.svg?logo=Serverless&style=flat-square&logoColor=white)]()
+[![Terraform](https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=flat-square&logoColor=white)](https://www.docker.com/)
 
 
 ##### Examples
