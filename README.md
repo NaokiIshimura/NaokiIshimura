@@ -15,7 +15,7 @@
 [![Ruby](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
 
 #### Frontend
-[![React](https://img.shields.io/badge/-Serverless-FD5750.svg?logo=serverless&style=flat-square&logoColor=white)]()
+[![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=flat-square&logoColor=white)]()
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat-square&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3.svg?logo=bootstrap&style=flat-square&logoColor=white)]()
 
