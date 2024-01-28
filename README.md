@@ -25,7 +25,7 @@
 #### Infrastructure
 [![Serverless](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=flat-square&logoColor=white)]()
 [![Terraform](https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=flat-square&logoColor=white)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/-AWS-232F3E.svg?logo=AWS&style=flat-square&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/-AWS-232F3E.svg?logo=Amazon-AWS&style=flat-square&logoColor=white)]()
 
 
 ##### Examples
