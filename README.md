@@ -36,6 +36,7 @@
 
 
 ##### Examples
+I can build infrastructure like:
 <img alt="SNQ-2001" src="img/AWS-Architecture-Microservice.drawio.png" width="50%" height="100%">
 <img alt="SNQ-2001" src="img/AWS-Architecture-Container.drawio.png" width="50%" height="100%">
 
