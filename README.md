@@ -1,8 +1,8 @@
 ### About Me
 
-#### Naoki Ishimura
+#### Naoki Ishimura 🙋‍♂️
 
-- Serverside Engineer
+- Serverside Engineer 🌐
 
 ---
 
