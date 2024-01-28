@@ -1,3 +1,8 @@
+### About Me
+---
+
+Naoki Ishimura
+
 ### My Skill
 ---
 
