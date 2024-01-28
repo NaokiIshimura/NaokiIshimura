@@ -14,7 +14,7 @@
 
 #### Frontend
 [![React](https://img.shields.io/badge/-Serverless-FD5750.svg?logo=serverless&style=flat-square&logoColor=white)]()
-[![VueJS](https://img.shields.io/badge/-VueJS-4FC08D.svg?logo=vueJS&style=flat-square&logoColor=white)]()
+[![VueJS](https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat-square&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3.svg?logo=bootstrap&style=flat-square&logoColor=white)]()
 
 #### Backend
