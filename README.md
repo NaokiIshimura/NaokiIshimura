@@ -9,39 +9,39 @@
 ### My Skill
 
 #### Currently studying...
+[![Go](https://img.shields.io/badge/-Go-00ADD8.svg?logo=Go&style=flat-square&logoColor=white)](https://go.dev/)
 
+#### Language
+[![Node.js](https://img.shields.io/badge/-Node.js-339933.svg?logo=Node.js&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=TypeScript&style=flat-square&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Ruby](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
+
+#### Frontend
+[![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=flat-square&logoColor=white)](https://ja.react.dev/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=flat-square&logoColor=white)](https://nextjs.org/)
-[![Recoil](https://img.shields.io/badge/-Recoil-3578E5.svg?logo=Recoil&style=flat-square&logoColor=white)](https://recoiljs.org/)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat-square&logoColor=white)](https://ja.vuejs.org/)
+[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82.svg?logo=nuxt.js&style=flat-square&logoColor=white)](https://nuxt.com/)
+[![HTML](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+
+#### StyleSheet
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4.svg?logo=Tailwind-css&style=flat-square&logoColor=white)](https://tailwindcss.com/)
-[![AWS CDK](https://img.shields.io/badge/-AWS%20CDK-FF9900.svg?logo=Amazon-AWS&style=flat-square&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3.svg?logo=bootstrap&style=flat-square&logoColor=white)](https://getbootstrap.jp/)
+[![CSS](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+#### Backend
+[![Express](https://img.shields.io/badge/-Express-000000.svg?logo=express&style=flat-square&logoColor=white)](https://expressjs.com/ja/)
+[![RubyOnRails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
+
+#### Infrastructure
+[![AWS](https://img.shields.io/badge/-AWS-FF9900.svg?logo=Amazon-AWS&style=flat-square&logoColor=white)](https://aws.amazon.com/jp/)
+[![Terraform](https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=flat-square&logoColor=white)](https://www.docker.com/)
+[![Serverless](https://img.shields.io/badge/-Serverless-FD5750.svg?logo=Serverless&style=flat-square&logoColor=white)](https://www.serverless.com/)
 
 #### DevTool
 [![Github](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
 [![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat-square&logoColor=white)]()
-
-#### Language
-[![Node.js](https://img.shields.io/badge/-Node.js-339933.svg?logo=Node.js&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Ruby](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
-[![HTML](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![CSSバッジ](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-#### Frontend
-[![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=flat-square&logoColor=white)]()
-[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat-square&logoColor=white)]()
-[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82.svg?logo=nuxt.js&style=flat-square&logoColor=white)]()
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3.svg?logo=bootstrap&style=flat-square&logoColor=white)]()
-
-#### Backend
-[![Express](https://img.shields.io/badge/-Express-000000.svg?logo=express&style=flat-square&logoColor=white)]()
-[![RubyOnRails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
-
-#### Infrastructure
-[![AWS](https://img.shields.io/badge/-AWS-FF9900.svg?logo=Amazon-AWS&style=flat-square&logoColor=white)]()
-[![Serverless](https://img.shields.io/badge/-Serverless-FD5750.svg?logo=Serverless&style=flat-square&logoColor=white)]()
-[![Terraform](https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=flat-square&logoColor=white)](https://www.docker.com/)
 
 <!--
 ##### Examples
