@@ -11,11 +11,20 @@
 #### Currently studying...
 [![Go](https://img.shields.io/badge/-Go-00ADD8.svg?logo=Go&style=flat-square&logoColor=white)](https://go.dev/)
 
+#### Infrastructure
+[![AWS](https://img.shields.io/badge/-AWS-FF9900.svg?logo=Amazon-AWS&style=flat-square&logoColor=white)](https://aws.amazon.com/jp/)
+[![Terraform](https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=flat-square&logoColor=white)](https://www.docker.com/)
+[![Serverless](https://img.shields.io/badge/-Serverless-FD5750.svg?logo=Serverless&style=flat-square&logoColor=white)](https://www.serverless.com/)
+
 #### Language
 [![Node.js](https://img.shields.io/badge/-Node.js-339933.svg?logo=Node.js&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=TypeScript&style=flat-square&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Ruby](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
+
+#### Backend
+[![Express](https://img.shields.io/badge/-Express-000000.svg?logo=express&style=flat-square&logoColor=white)](https://expressjs.com/ja/)
+[![RubyOnRails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
 
 #### Frontend
 [![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=flat-square&logoColor=white)](https://ja.react.dev/)
@@ -28,15 +37,6 @@
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4.svg?logo=Tailwind-css&style=flat-square&logoColor=white)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3.svg?logo=bootstrap&style=flat-square&logoColor=white)](https://getbootstrap.jp/)
 [![CSS](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-#### Backend
-[![Express](https://img.shields.io/badge/-Express-000000.svg?logo=express&style=flat-square&logoColor=white)](https://expressjs.com/ja/)
-[![RubyOnRails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
-
-#### Infrastructure
-[![AWS](https://img.shields.io/badge/-AWS-FF9900.svg?logo=Amazon-AWS&style=flat-square&logoColor=white)](https://aws.amazon.com/jp/)
-[![Terraform](https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=flat-square&logoColor=white)](https://www.docker.com/)
-[![Serverless](https://img.shields.io/badge/-Serverless-FD5750.svg?logo=Serverless&style=flat-square&logoColor=white)](https://www.serverless.com/)
 
 #### DevTool
 [![Github](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square&logoColor=white)]()
