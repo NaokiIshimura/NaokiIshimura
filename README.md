@@ -7,9 +7,9 @@
 ---
 
 ### My Skill
-
+<!--
 #### Currently studying...
-[![Go](https://img.shields.io/badge/-Go-00ADD8.svg?logo=Go&style=flat-square&logoColor=white)](https://go.dev/)
+-->
 
 #### Infrastructure
 [![AWS](https://img.shields.io/badge/-AWS-FF9900.svg?logo=Amazon-AWS&style=flat-square&logoColor=white)](https://aws.amazon.com/jp/)
@@ -17,6 +17,7 @@
 [![Serverless](https://img.shields.io/badge/-Serverless-FD5750.svg?logo=Serverless&style=flat-square&logoColor=white)](https://www.serverless.com/)
 
 #### Language
+[![Go](https://img.shields.io/badge/-Go-00ADD8.svg?logo=Go&style=flat-square&logoColor=white)](https://go.dev/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=TypeScript&style=flat-square&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933.svg?logo=Node.js&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
