@@ -32,16 +32,16 @@ https://qiita.com/twrcd1227/items/cb6534112bbdeb74ae10
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Ruby](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
 
-#### Backend
-[![Express](https://img.shields.io/badge/-Express-000000.svg?logo=express&style=flat-square&logoColor=white)](https://expressjs.com/ja/)
-[![RubyOnRails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
-
 #### Frontend
 [![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=flat-square&logoColor=white)](https://ja.react.dev/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=flat-square&logoColor=white)](https://nextjs.org/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat-square&logoColor=white)](https://ja.vuejs.org/)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82.svg?logo=nuxt.js&style=flat-square&logoColor=white)](https://nuxt.com/)
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+
+#### Backend
+[![Express](https://img.shields.io/badge/-Express-000000.svg?logo=express&style=flat-square&logoColor=white)](https://expressjs.com/ja/)
+[![RubyOnRails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
 
 #### StyleSheet
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4.svg?logo=Tailwind-css&style=flat-square&logoColor=white)](https://tailwindcss.com/)
