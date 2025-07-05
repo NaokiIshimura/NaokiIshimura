@@ -19,6 +19,11 @@ https://qiita.com/twrcd1227/items/cb6534112bbdeb74ae10
 <!--
 #### Currently studying...
 -->
+#### AI
+![GithubCopilot](https://img.shields.io/badge/-GithubCopilot-000000.svg?logo=githubcopilot&style=flat-square&logoColor=white)
+![Cline](https://img.shields.io/badge/-Cline-000000.svg?logo=cline&style=flat-square&logoColor=white)
+![RooCode](https://img.shields.io/badge/-RooCode-000000.svg?logo=roocodestyle=flat-square&logoColor=white)
+
 
 #### Infrastructure
 [![AWS](https://img.shields.io/badge/-AWS-FF9900.svg?logo=amazonwebservices&style=flat-square&logoColor=white)](https://aws.amazon.com/jp/)
