@@ -26,7 +26,7 @@ https://qiita.com/twrcd1227/items/cb6534112bbdeb74ae10
 
 
 #### Infrastructure
-[![AWS](https://img.shields.io/badge/-AWS-FF9900.svg?logo=amazonwebservices&style=flat-square&logoColor=white)](https://aws.amazon.com/jp/)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](https://aws.amazon.com/jp/)
 [![Terraform](https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=flat-square&logoColor=white)](https://www.docker.com/)
 [![Serverless](https://img.shields.io/badge/-Serverless-FD5750.svg?logo=Serverless&style=flat-square&logoColor=white)](https://www.serverless.com/)
 
