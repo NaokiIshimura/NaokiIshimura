@@ -6,15 +6,6 @@
 
 ---
 
-<!--
-https://qiita.com/twrcd1227/items/cb6534112bbdeb74ae10
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaokiIshimura&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=NaokiIshimura&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-</p>
----
--->
-
 ### My Skill
 <!--
 #### Currently studying...
@@ -58,6 +49,23 @@ https://qiita.com/twrcd1227/items/cb6534112bbdeb74ae10
 [![Github](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
 [![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat-square&logoColor=white)]()
+
+
+---
+
+<!--
+https://qiita.com/twrcd1227/items/cb6534112bbdeb74ae10
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaokiIshimura&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=NaokiIshimura&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+</p>
+
+https://zenn.dev/pageo/articles/a9acf452a84003
+-->
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-gray-ten-31.vercel.app/api/top-langs/?username=NaokiIshimura&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-gray-ten-31.vercel.app/api?username=NaokiIshimura&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+</p>
 
 <!--
 ##### Examples
