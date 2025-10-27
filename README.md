@@ -1,12 +1,12 @@
-### About Me
+### 🙋‍♂️ About Me
 
-- Serverside Engineer 🌐
-- Agile Software Development ⚙️
-- Team Building 🛠️
+🌐 Software Engineer\
+⚙️ Agile Software Development\
+🛠️ Team Building
 
 ---
 
-### My Skill
+### 📝 My Skill
 <!--
 #### Currently studying...
 -->
@@ -23,6 +23,8 @@ Category | Tools
 
 
 ---
+
+### 📊 Stats
 
 <!--
 https://qiita.com/twrcd1227/items/cb6534112bbdeb74ae10
