@@ -19,9 +19,10 @@ Category | Tools
 **StyleSheet** | [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4.svg?logo=Tailwind-css&style=flat-square&logoColor=white)](https://tailwindcss.com/) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3.svg?logo=bootstrap&style=flat-square&logoColor=white)](https://getbootstrap.jp/) [![CSS](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 **DevTool** | [![Github](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square&logoColor=white)]() [![Docker](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/) [![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat-square&logoColor=white)]()
 
+<!--
+
 ## 📊 Stats
 
-<!--
 https://qiita.com/twrcd1227/items/cb6534112bbdeb74ae10
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaokiIshimura&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
@@ -29,11 +30,13 @@ https://qiita.com/twrcd1227/items/cb6534112bbdeb74ae10
 </p>
 
 https://zenn.dev/pageo/articles/a9acf452a84003
--->
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-gray-ten-31.vercel.app/api/top-langs/?username=NaokiIshimura&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats-gray-ten-31.vercel.app/api?username=NaokiIshimura&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 </p>
+
+-->
 
 <!--
 ##### Examples
