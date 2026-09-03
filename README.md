@@ -4,7 +4,7 @@
 ⚙️ Agile Software Development\
 🛠️ Team Building
 
-## 📝 My Skill
+## 📝 My Tools
 <!--
 #### Currently studying...
 -->
