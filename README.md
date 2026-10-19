@@ -30,7 +30,7 @@ https://qiita.com/twrcd1227/items/cb6534112bbdeb74ae10
 -->
 
 
-## 📊 Stats
+## 📊 My Stats
 <!--
 https://zenn.dev/pageo/articles/a9acf452a84003
 -->
