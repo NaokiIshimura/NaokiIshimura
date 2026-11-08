@@ -1,0 +1,64 @@
+name: Update stats cards
+ 
+on:
+  schedule:
+    - cron: "0 18 * * *" # 毎日 03:00 JST
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/update-stats.yml
+ 
+permissions:
+  contents: write
+ 
+concurrency:
+  group: update-stats-${{ github.ref }}
+  cancel-in-progress: false
+ 
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+ 
+      - name: Fetch cards
+        env:
+          BASE: https://github-readme-stats-gray-ten-31.vercel.app
+          USER: NaokiIshimura
+        run: |
+          set -euo pipefail
+          mkdir -p stats
+ 
+          fetch() {
+            local url="$1" out="$2" tmp
+            tmp="$(mktemp)"
+            if ! curl -fsSL --max-time 60 --retry 3 --retry-delay 10 --retry-all-errors -o "$tmp" "$url"; then
+              echo "::warning::取得失敗のため既存ファイルを維持: $out"
+              return 0
+            fi
+            # SVG でない、またはエラーカードなら上書きしない
+            if ! grep -q "<svg" "$tmp" || grep -q "Something went wrong" "$tmp"; then
+              echo "::warning::エラーカードのため既存ファイルを維持: $out"
+              return 0
+            fi
+            mv "$tmp" "$out"
+            echo "updated: $out"
+          }
+ 
+          fetch "$BASE/api?username=$USER&count_private=true&show_icons=true&theme=tokyonight" stats/github-stats.svg
+          fetch "$BASE/api/top-langs/?username=$USER&layout=compact&count_private=true&show_icons=true&theme=tokyonight" stats/top-langs.svg
+ 
+          ls stats/*.svg >/dev/null 2>&1 || { echo "::error::カードを1枚も取得できませんでした"; exit 1; }
+ 
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats
+          if git diff --cached --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "chore: update stats cards"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+ 
