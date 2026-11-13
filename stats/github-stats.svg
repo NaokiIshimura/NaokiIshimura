@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Naoki Ishimura (nacn)'s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 9, Total Commits  (last year) : 1557, Total PRs: 2330, Total Issues: 236, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 9, Total Commits  (last year) : 1560, Total PRs: 2334, Total Issues: 236, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 92.03070540165716;
+        stroke-dashoffset: 92.02607652535363;
       }
     }
   
